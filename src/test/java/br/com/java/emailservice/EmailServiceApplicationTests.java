@@ -1,4 +1,4 @@
-package br.com.java.email_service;
+package br.com.java.emailservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

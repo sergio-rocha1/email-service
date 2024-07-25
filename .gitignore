@@ -18,3 +18,9 @@ target/
 *.iws
 *.iml
 *.ipr
+
+aws-credentials.env
+src/main/resources/application.properties
+/mvnw
+/mvnw.cmd
+/.mvn/
